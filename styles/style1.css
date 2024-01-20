@@ -71,7 +71,7 @@ nav ul{display: flex; align-items: center;}
 .about-info-container{display:flex; justify-content: space-around;
    }
 .info-title{font-size: 20px;color:#757575;}
- .info-description{font-size: 20px;color:#474747}
+ .info-description{font-size: 20px;color:#474747;font-weight: 700;}
 
 
 
@@ -93,3 +93,8 @@ padding-right: 387px;
 margin-bottom:30px;
 
 }
+
+
+
+
+.What-I-Do{margin-top: 130px;text-align: center;}
